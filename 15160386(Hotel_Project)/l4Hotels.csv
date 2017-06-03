@@ -1,0 +1,12 @@
+Hotel type ,Room type,Number of Rooms,Occupancy-min,Occupancy-max,Rates,,,,,,
+,,,Adult+child,Adult+child,Mon,Tues,Wed,Thurs,Fri,Sat,Sun
+5-star,Deluxe Double,35,1+0,2+0,75.0,75.0,75.0,80.0,90.0,90.0,75.0
+,Deluxe Twin,25,1+0,2+1,75.0,75.0,75.0,80.0,90.0,90.0,75.0
+,Deluxe Single,10,1+0,1+1,70.0,70.0,70.0,75.0,80.0,80.0,65.0
+,Deluxe Family,10,1+0,3+1,80.0,80.0,80.0,80.0,100.0,100.0,80.0
+4-star,Executie Double,40,1+0,2+0,70.0,70.0,70.0,70.0,80.0,85.0,85.0
+,Executive Twin,32,1+0,2+1,70.0,70.0,70.0,70.0,80.0,85.0,85.0
+,Executive Single,12,1+0,1+1,65.0,65.0,65.0,65.0,70.0,75.0,80.0
+3-star,Classic Double,45,1+0,2+0,65.0,65.0,70.0,70.0,75.0,80.0,65.0
+,Classic Twin,45,1+0,2+1,65.0,65.0,70.0,70.0,80.0,85.0,65.0
+,Classic Single,10,1+0,1+1,50.0,50.0,50.0,60.0,75.0,75.0,50.0

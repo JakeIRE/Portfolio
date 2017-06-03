@@ -1,0 +1,9 @@
+in commandprompt compile and run l4Hotel e.g:
+'javac l4Hotel.java'
+'java l4Hotel'
+
+To navigate through the menus simply enter a number when prompted with options, the corresponding number will be displayed on the left of the options
+
+When using staff or supervisor usernames and passwords are stored in the corresponding text files, a sample username is 'me' and password is '123' for both staff and supervisors
+
+at any point hit q to exit
